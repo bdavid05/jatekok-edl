@@ -1,0 +1,20 @@
+#jatekter {
+	border: 1px solid black;
+	padding: 20px;
+	margin: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+#jatekos, #gep {
+	width: 40%;
+}
+
+button {
+	margin: 5px;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: #ddd;
+}
